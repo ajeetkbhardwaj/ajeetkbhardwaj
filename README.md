@@ -1,4 +1,7 @@
-# Hi there, I'm Ajeet Kumar Bhardwaj! 👋
+
+
+<h1 align = 'center'> Hi 👋, I'm Ajeet Kumar Bhardwaj </h1>
+<h2>A Passionate AI and Quantum Researcher with a training background of Applied Mathematics with Computing from Bharata(India)</h2>
 Ajeet Kumar Bhardwaj is a passionate researcher and developer with a background in Applied Mathematics. His areas of interest include optimization, control theory, and machine learning. Ajeet has created a GitHub profile to showcase his projects and contributions in the field of Applied Mathematics. With a focus on practical and innovative solutions, Ajeet's work demonstrates a unique approach to problem-solving. His GitHub profile contains a diverse range of repositories, from algorithms for numerical optimization to projects on deep learning. Ajeet's expertise in Applied Mathematics and his commitment to sharing his knowledge make him an invaluable member of the GitHub community.
 
 ## Application Area of Applied Mathematics
