@@ -5,10 +5,25 @@
 
 
 🔭 I’m currently working on 
+ * [Amazon Machine Learning Challenge 2024](https://github.com/ajeetkbhardwaj/AmazonML-Challenge2024)
+ * []()
+ * []()
 
 🌱 I'm currently learning *Reinforcement Learning and Large Language Models* for my master's Semester-III project *Large Language Models with Human Feedback Control Systems*
 
+I have worked on 
+* [IBM Quantum Challenge 2024]()
+* [IBM Qiskit Global Summer School 2024]()
+* [Quantum Research Intern at Qworld 2024]()
+*
+
 👨‍💻 All projects are available at my github repository -  [https://github.com/ajeetkbhardwaj](https://github.com/ajeetkbhardwaj)
+
+
+All of My Academic Learning from Theory to Practicals
+- [M.Sc Mathematics and Computing at Banaras Hindu University, Varanasi](https://github.com/ajeetkbhardwaj/M.Sc-Mathematics-and-Computing)
+- [B.Sc(Hons) Applied Mathematics at Jamia Millia Islamia New Delhi](https://github.com/ajeetkbhardwaj/B.Sc-Hons-Applied-Mathematics)
+- [Intermediate Collage Studies at GIC Prayagraj](#black)
 ## 💻 Technologies & Tools
 
 
