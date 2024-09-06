@@ -18,7 +18,7 @@ Applied Mathematics with Computing from Bharata(India)**
 
 🌱 I'm currently learning *Reinforcement Learning and Large Language Models* for my master's Semester-III project *Large Language Models with Human Feedback Control Systems*
 
-I have worked on 
+🏆 I have worked on 
 * [IBM Quantum Challenge 2024]()
 * [IBM Qiskit Global Summer School 2024]()
 * [Quantum Research Intern at Qworld 2024]()
