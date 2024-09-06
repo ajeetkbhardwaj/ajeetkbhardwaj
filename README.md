@@ -32,9 +32,9 @@ All of My Academic Learning from Theory to Practicals
 - [B.Sc(Hons) Applied Mathematics at Jamia Millia Islamia New Delhi](https://github.com/ajeetkbhardwaj/B.Sc-Hons-Applied-Mathematics)
 - [Intermediate Collage Studies at GIC Prayagraj](#black)
 </em>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=F72929&width=435&lines=Skills)](https://git.io/typing-svg)
-
-
+- Computation Plateform : Azure Cloud, Windows Systems and Linux System and Param Shivaya Supercomputer
 ## 💻 Technologies & Tools
 
 
