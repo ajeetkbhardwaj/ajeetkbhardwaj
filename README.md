@@ -2,26 +2,9 @@
 
 <h1 align = 'center'> Hi 👋, I'm Ajeet Kumar Bhardwaj </h1>
 <h2>A Passionate AI and Quantum Researcher with a training background of Applied Mathematics with Computing from Bharata(India)</h2>
-Ajeet Kumar Bhardwaj is a passionate researcher and developer with a background in Applied Mathematics. His areas of interest include optimization, control theory, and machine learning. Ajeet has created a GitHub profile to showcase his projects and contributions in the field of Applied Mathematics. With a focus on practical and innovative solutions, Ajeet's work demonstrates a unique approach to problem-solving. His GitHub profile contains a diverse range of repositories, from algorithms for numerical optimization to projects on deep learning. Ajeet's expertise in Applied Mathematics and his commitment to sharing his knowledge make him an invaluable member of the GitHub community.
-
-## Application Area of Applied Mathematics
-Applied Mathematics has a wide range of applications in various fields such as science, engineering, business, finance, economics, and more. Some of the common areas where applied mathematics is applied are:
-
-    1. Optimization: This involves the use of mathematical techniques to find the best solution to a problem, given a set of constraints. Such techniques are used in areas like logistics management, scheduling, and financial planning.
-    
-    2. Control Theory: This involves the use of mathematical modeling for the design and analysis of control systems. Control theory is applied in areas like robotics, aerospace, and chemical engineering.
-    
-    3. Machine Learning: This involves the use of mathematical models to enable computers to learn from data without being explicitly programmed. Machine learning is used in areas like image recognition, natural language processing, and recommender systems.
-    
-    4. Numerical Analysis: This involves the use of numerical methods to solve complex mathematical problems that cannot be easily solved analytically. Numerical analysis is used in areas like simulation, weather forecasting, and computational fluid dynamics.
-    
-    5. Cryptography: This involves the use of mathematical algorithms to encode and decode messages, ensuring secure communication. Cryptography is used in areas like online transactions, military intelligence, and national security.
-
-Overall, Applied Mathematics plays a crucial role in solving real-world problems and advancing various fields.
 
 ## 💻 Technologies & Tools
 
-Here are some of the technologies and tools I've been working with recently:
 
 - Python
 - JavaScript
