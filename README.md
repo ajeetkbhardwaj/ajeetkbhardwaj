@@ -3,6 +3,12 @@
 <h1 align = 'center'> Hi 👋, I'm Ajeet Kumar Bhardwaj </h1>
 <h2>A Passionate AI and Quantum Researcher with a training background of Applied Mathematics with Computing from Bharata(India)</h2>
 
+
+🔭 I’m currently working on 
+
+🌱 I'm currently learning *Reinforcement Learning and Large Language Models* for my master's Semester-III project *Large Language Models with Human Feedback Control Systems*
+
+👨‍💻 All projects are available at my github repository -  [https://github.com/ajeetkbhardwaj](https://github.com/ajeetkbhardwaj)
 ## 💻 Technologies & Tools
 
 
