@@ -4,8 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=F72929&width=435&lines=About+Me)](https://git.io/typing-svg)
 
-<h3><em>A Passionate AI and Quantum Researcher with a training background of 
-Applied Mathematics with Computing from Bharata(India)</em></h3>
+**A Passionate AI and Quantum Researcher with a training background of 
+Applied Mathematics with Computing from Bharata(India)**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=F72929&width=435&lines=About+My+Work)](https://git.io/typing-svg)
 
@@ -14,7 +14,7 @@ Applied Mathematics with Computing from Bharata(India)</em></h3>
 🔭 I’m currently working on 
  * [Amazon Machine Learning Challenge 2024](https://github.com/ajeetkbhardwaj/AmazonML-Challenge2024)
  * [Labs for Applied Mathematics](https://github.com/ajeetkbhardwaj/Lab-for-Applied-Mathematics)
- * [Foundation of Artificial Intelligence](https://github.com/ajeetkbhardwaj/Foundation-of-Artificial-Intelligence)
+ * [Fundamentals of Artificial Intelligence](https://github.com/ajeetkbhardwaj/Foundation-of-Artificial-Intelligence)
 
 🌱 I'm currently learning *Reinforcement Learning and Large Language Models* for my master's Semester-III project *Large Language Models with Human Feedback Control Systems*
 
@@ -53,7 +53,7 @@ I'm always trying to learn something new! Here are some of the things I'm curren
 - Data structures & algorithms
 - Machine learning
 
-## 📫 Contact
+## 📫 Contact Information
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ajeetkbhardwaj-blue)](https://www.linkedin.com/in/ajeetkbhardwaj/)
@@ -62,13 +62,13 @@ I'm always trying to learn something new! Here are some of the things I'm curren
 [![Replit](https://img.shields.io/badge/Replit-AjeetBhardwaj-blue)](https://replit.com/@AjeetBhardwaj)
 [![Github](https://img.shields.io/badge/Github-AjeetBhardwaj-blue)](https://github.com/AjeetBhardwaj)
 
-## 🏆 Github Stats
+## 🏆 Github Statistics
 
 <div style="display:flex;justify-content:center;">
   <a href="https://github.com/ajeetkbhardwaj" style="margin-right:10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ajeetkbhardwaj&count_private=true&show_icons=true&theme=radical&include_all_commits=true" alt="Ajeet's GitHub stats" />
-  </a>
-  <a href="https://github.com/ajeetkbhardwaj">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajeetkbhardwaj&layout=compact&theme=radical" alt="Top Langs" />
-  </a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajeetkbhardwaj&show_icons=true&locale=en" alt="ajeetkbhardwaj" /></p>
+</a>
+<a href="https://github.com/ajeetkbhardwaj" style="margin-right:10px;">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajeetkbhardwaj&" alt="ajeetkbhardwaj" /></p>
+</a>
 </div>
