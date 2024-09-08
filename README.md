@@ -1,5 +1,5 @@
 
-
+![](./Images/github.png)
 <h1 align = 'center'> Hi 👋, I'm Ajeet Kumar Bhardwaj </h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=F72929&width=435&lines=About+Me)](https://git.io/typing-svg)
@@ -56,7 +56,9 @@ I'm always trying to learn something new! Here are some of the things I'm curren
 ## 📫 Contact Information
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ajeetkbhardwaj-blue)](https://www.linkedin.com/in/ajeetkbhardwaj/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ajeetkbhardwaj-blue)](https://www.linkedin.com/in/ajeet-kumar-99a278217/)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-ajeet9843-blue)](https://huggingface.co/ajeet9843)
+
 [![Twitter](https://img.shields.io/badge/Twitter-ajeetsbuzz-blue)](https://twitter.com/ajeetsbuzz)
 [![Discord](https://img.shields.io/badge/Discord-Ajeet%231234-blue)]()
 [![Replit](https://img.shields.io/badge/Replit-AjeetBhardwaj-blue)](https://replit.com/@AjeetBhardwaj)
