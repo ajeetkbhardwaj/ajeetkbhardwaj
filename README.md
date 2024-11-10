@@ -76,3 +76,7 @@ I'm always trying to learn something new! Here are some of the things I'm curren
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=ajeetkbhardwaj&label=GitHub%20Profile%20Visitors&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=ajeetkbhardwaj&label=GitHub%20Profile%20Visitors&color=1&icon=0&pretty=false" />
+</a>
