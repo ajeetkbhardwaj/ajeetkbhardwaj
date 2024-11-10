@@ -2,6 +2,7 @@
 ![](./Images/github.png)
 <h1 align = 'center'> Hi 👋, I'm Ajeet Kumar Bhardwaj </h1>
 [![](https://visitcount.itsvg.in/api?id=ajeetkbhardwaj&label=GitHub%20Profile%20Visitors&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=F72929&width=435&lines=About+Me)](https://git.io/typing-svg)
 
 **A Passionate AI and Quantum Researcher with a training background of 
