@@ -11,7 +11,7 @@
 1. Masters in Mathematics and Computing(BHU, Varanasi) - Score : 8.41 CGPA
 2. B.Sc(Hons) Applied Mathematics(JMI, New Delhi) - Score : 8.9 CGPA
 
-## **Research Work Experiance**
+## **Office/Research Work Experiance**
 🧑‍💼 I have worked at
 1. Machine Learning Intern(Remote)
 > 
@@ -41,9 +41,19 @@ All of My Academic Learning from Theory to Practicals
 - [Intermediate Collage Studies at GIC Prayagraj](#black)
 </em>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=F72929&width=435&lines=Skills)](https://git.io/typing-svg)
-- Computation Plateform : Azure Cloud, Windows Systems and Linux System and Param Shivaya Supercomputer
-## 💻 Technologies & Tools
+##  **Skills**
+- Feature Extraction, Modelling for Prediction
+- LLM Post Training - LLM Finetuning and Inferencing
+- 
+## 🛠️💻 Technologies & Tools
+I have strongly used the following tools and frameworks during my academic, research and works journey
+- **Computer Programming Language** : C/C++, Python, MATLAB, Julia.
+- **ML and DL frameworks** : Scikit-learn, PyTorch, TensorFlow.
+- **Scientific Computing** : Numpy, SciPy, Eigen(C++), igl, 
+- **Computing Machine** : Linux, Window, GPU Compute Server
+- **Code/Docs Writing** : Overleaf, VS Code, Google Colab.
+- 
+- 
 
 
 - Python
