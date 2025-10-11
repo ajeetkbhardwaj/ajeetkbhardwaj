@@ -1,28 +1,36 @@
+<h1 align = 'center'> Hi 👋, I'm Ajeet Kumar</h1>
 
-![](./Images/github.png)
-<h1 align = 'center'> Hi 👋, I'm Ajeet Kumar Bhardwaj </h1>
+🎓 **Applied Mathematician | Data Scientist | Machine Learning Enthusiast | LLM Applications | Open-Source Contributor**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=F72929&width=435&lines=About+Me)](https://git.io/typing-svg)
+🌟 Passionate about **modelling and solving of real world problems** using data and **mathematical data driven methods**. I'm specialize in 
+1. Data Science and Machine Learning - Feature extraction from high dimentional data to the building AI agentic workflow.
+2. Discrete Differential Geometry and Its Applications like Geometric Processing, Physical Simulation and Geometric Deep Learning
+3. Modelling with Dynamics and Controls using Differential Equations, Integral Equations and Variational Calculus etc.
+## **Academics Experiance**
+📖 I have done my
+1. Masters in Mathematics and Computing(BHU, Varanasi) - Score : 8.41 CGPA
+2. B.Sc(Hons) Applied Mathematics(JMI, New Delhi) - Score : 8.9 CGPA
 
-**A Passionate AI and Quantum Researcher with a training background of 
-Applied Mathematics with Computing from Bharata(India)**
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=F72929&width=435&lines=About+My+Work)](https://git.io/typing-svg)
-
-<em>
+## **Research Work Experiance**
+🧑‍💼 I have worked at
+1. Machine Learning Intern(Remote)
+> 
+2. Quantum Research Intern(Remote)
+>
+3. AI Research Intern(IIT Delhi)
+>
+## **Featured Projects**
+🚀 I have worked on the following projects
+1. Lean4Agent - A multi-agentic workflow for mathematical problems
+2. DDG - Discrete Differential Geometry Framework for Geometric Processing and Physical Simulations
+3. Data Driven Approach to Solve PDEs
+4. LLM + OpenAPI Specification(411 Lab, IIT Delhi) - Building an LLM based tool for the open api specification generation for the backend server api code(python, java)
 
 🔭 I’m currently working on 
- * [Amazon Machine Learning Challenge 2024](https://github.com/ajeetkbhardwaj/AmazonML-Challenge2024)
- * [Labs for Applied Mathematics](https://github.com/ajeetkbhardwaj/Lab-for-Applied-Mathematics)
- * [Fundamentals of Artificial Intelligence](https://github.com/ajeetkbhardwaj/Foundation-of-Artificial-Intelligence)
+ 1. [Amazon Machine Learning Challenge 2024](https://github.com/ajeetkbhardwaj/AmazonML-Challenge2024)
+ 2. [Labs for Applied Mathematics](https://github.com/ajeetkbhardwaj/Lab-for-Applied-Mathematics)
+ 3. [Fundamentals of Artificial Intelligence](https://github.com/ajeetkbhardwaj/Foundation-of-Artificial-Intelligence)
 
-🌱 I'm currently learning *Reinforcement Learning and Large Language Models* for my master's Semester-III project *Large Language Models with Human Feedback Control Systems*
-
-🏆 I have worked on 
-* [IBM Quantum Challenge 2024]()
-* [IBM Qiskit Global Summer School 2024]()
-* [Quantum Research Intern at Qworld 2024]()
-* [Machine Learning Inten at Devtern and AICTE India]()
 
 👨‍💻 All projects are available at my github repository -  [https://github.com/ajeetkbhardwaj](https://github.com/ajeetkbhardwaj)
 
