@@ -38,9 +38,12 @@
 - 
 ## 🛠️💻 Technologies & Tools
 I have strongly used the following tools and frameworks during my academic, research and works journey
-- **Computer Programming Language** : C/C++, Python, MATLAB, Julia.
+- **Computer Programming Language** : C/C++, Python, MATLAB, Julia, SQL.
 - **ML and DL frameworks** : Scikit-learn, PyTorch, TensorFlow.
-- **Scientific Computing** : Numpy, SciPy, Eigen(C++), igl, 
+- **Scientific Computing** : SymPy, NumPy, SciPy, Pandas, Eigen(C++), igl
+- **Data Visualization** : Matplotlib, Seaborn.
+- **Parallel and Distributed Computing** : PySpark, MPI
+- **Real-Time Streaming** : PyFlink
 - **Computing Machine** : Linux, Window, GPU Compute Server
 - **Code/Docs Writing** : Overleaf, VS Code, Google Colab.
 - **Production** : Git, GitHub, GitHub Action, Docker, HuggingFace
