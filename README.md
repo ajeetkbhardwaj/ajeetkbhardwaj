@@ -27,9 +27,10 @@
 4. LLM + OpenAPI Specification(411 Lab, IIT Delhi) - Building an LLM based tool for the open api specification generation for the backend server api code(python, java)
 
 🔭 I’m currently working on 
- 1. [Amazon Machine Learning Challenge 2024](https://github.com/ajeetkbhardwaj/AmazonML-Challenge2024)
- 2. [Labs for Applied Mathematics](https://github.com/ajeetkbhardwaj/Lab-for-Applied-Mathematics)
- 3. [Fundamentals of Artificial Intelligence](https://github.com/ajeetkbhardwaj/Foundation-of-Artificial-Intelligence)
+ 1. [AI for Engineers](https://github.com/ajeetkbhardwaj/AI-for-Engineers)
+ 2. [Lab for Applied Mathematics](https://github.com/ajeetkbhardwaj/Lab-for-Applied-Mathematics)
+ 3. [AI from First Principle](https://github.com/ajeetkbhardwaj/AI-from-First-Principle)
+ 4. [Lean4Agent](https://github.com/ajeetkbhardwaj/Lean4Agent)
 
 ##  **Skills**
 - Feature Extraction, Modelling for Prediction
@@ -44,25 +45,8 @@ I have strongly used the following tools and frameworks during my academic, rese
 - **Code/Docs Writing** : Overleaf, VS Code, Google Colab.
 - **Production** : Git, GitHub, GitHub Action, Docker, HuggingFace
 
-## 📫 Let's Connect for Updates and Discussion
+## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ajeetkbhardwaj-blue)](https://www.linkedin.com/in/ajeet-kumar-99a278217/)
 [![Twitter](https://img.shields.io/badge/Twitter-ajeetsbuzz-blue)](https://twitter.com/ajeetsbuzz)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-ajeet9843-blue)](https://huggingface.co/ajeet9843)
 [![Github](https://img.shields.io/badge/Github-AjeetBhardwaj-blue)](https://github.com/AjeetBhardwaj)
-
-## 🏆 Github Statistics
-
-<div style="display:flex;justify-content:center;">
-  <a href="https://github.com/ajeetkbhardwaj" style="margin-right:10px;">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajeetkbhardwaj&show_icons=true&locale=en" alt="ajeetkbhardwaj" /></p>
-</a>
-<a href="https://github.com/ajeetkbhardwaj" style="margin-right:10px;">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajeetkbhardwaj&" alt="ajeetkbhardwaj" /></p>
-</a>
-</div>
-
-[![](https://visitcount.itsvg.in/api?id=ajeetkbhardwaj&label=GitHub%20Profile%20Visitors&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
-
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=ajeetkbhardwaj&label=GitHub%20Profile%20Visitors&color=1&icon=0&pretty=false" />
-</a>
