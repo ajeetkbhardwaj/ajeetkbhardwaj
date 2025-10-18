@@ -46,7 +46,7 @@ I have strongly used the following tools and frameworks during my academic, rese
 - **Real-Time Streaming** : PyFlink
 - **Computing Machine** : Linux, Window, GPU Compute Server
 - **Code/Docs Writing** : Overleaf, VS Code, Google Colab.
-- **Production** : Git, GitHub, GitHub Action, Docker, HuggingFace
+- **Production** : Git, GitHub, GitHub Action, Docker, HuggingFace : Datasets, Tokenizers, Transformers, Accelerate, Evaluate, PEFT etc.
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ajeetkbhardwaj-blue)](https://www.linkedin.com/in/ajeet-kumar-99a278217/)
