@@ -50,7 +50,7 @@ I have strongly used the following tools and frameworks during my academic, rese
 
 ## GitHub Stats and Troffies
 ![](https://github-readme-stats.vercel.app/api?username=ajeetkbhardwaj&theme=default&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=ajeetkbhardwaj&theme=default&hide_border=false)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=ajeetkbhardwaj&theme=default&hide_border=false)  \\
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ajeetkbhardwaj&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-profile-trophy.vercel.app/?username=ajeetkbhardwaj&theme=light)
 
