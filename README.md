@@ -48,6 +48,12 @@ I have strongly used the following tools and frameworks during my academic, rese
 - **Code/Docs Writing** : Overleaf, VS Code, Google Colab.
 - **Production** : Git, GitHub, GitHub Action, Docker, HuggingFace : Datasets, Tokenizers, Transformers, Accelerate, Evaluate, PEFT etc.
 
+## GitHub Stats and Troffies
+![](https://github-readme-stats.vercel.app/api?username=ajeetkbhardwaj&theme=default&hide_border=false&include_all_commits=false&count_private=false)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=ajeetkbhardwaj&theme=default&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ajeetkbhardwaj&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-profile-trophy.vercel.app/?username=ajeetkbhardwaj&theme=light)
+
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ajeetkbhardwaj-blue)](https://www.linkedin.com/in/ajeet-kumar-99a278217/)
 [![Twitter](https://img.shields.io/badge/Twitter-ajeetsbuzz-blue)](https://twitter.com/ajeetsbuzz)
