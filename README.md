@@ -42,7 +42,7 @@ I have strongly used the following tools and frameworks during my academic, rese
 - **ML and DL frameworks** : Scikit-learn, PyTorch, TensorFlow.
 - **Scientific Computing** : SymPy, NumPy, SciPy, Pandas, Eigen(C++), igl
 - **Data Visualization** : Matplotlib, Seaborn.
-- **Parallel and Distributed Computing** : PySpark, MPI, Torch.Distributed, 
+- **Parallel and Distributed Computing** : PySpark[^1], MPI, Torch.Distributed, 
 - **Real-Time Streaming** : PyFlink
 - **Computing Machine** : Linux, Window, GPU Compute Server
 - **Code/Docs Writing** : Overleaf, VS Code, Google Colab.
@@ -62,3 +62,8 @@ I have strongly used the following tools and frameworks during my academic, rese
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ajeetkbhardwaj-blue)](https://www.linkedin.com/in/ajeet-kumar-99a278217/)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-ajeet9843-blue)](https://huggingface.co/ajeet9843)
 [![Github](https://img.shields.io/badge/Github-AjeetBhardwaj-blue)](https://github.com/AjeetBhardwaj)
+
+
+## References
+[^1]. https://github.com/ajeetkbhardwaj/iitd24-data-systems
+[^2]
