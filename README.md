@@ -65,5 +65,11 @@ I have strongly used the following tools and frameworks during my academic, rese
 
 
 ## References
-[^1]. https://github.com/ajeetkbhardwaj/iitd24-data-systems
-[^2]
+[^0]: https://github.com/ajeetkbhardwaj/Lab-for-Applied-Mathematics
+[^1]: https://github.com/ajeetkbhardwaj/AI-from-First-Principle
+[^2]: https://github.com/ajeetkbhardwaj/AI-for-Engineers
+[^3]: https://github.com/ajeetkbhardwaj/Recent-Advances-Into-LLM
+[^4]: https://github.com/ajeetkbhardwaj/Book-AI
+[^5]: https://github.com/ajeetkbhardwaj/Master-Programming-DataStructure-Algorithm
+[^6]: https://github.com/ajeetkbhardwaj/ProgrammingInCandCPP
+[^10]: https://github.com/ajeetkbhardwaj/iitd24-data-systems
