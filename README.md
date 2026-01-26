@@ -3,7 +3,7 @@
 🎓 **Applied Mathematician | Data Scientist | Machine Learning Enthusiast | LLM Applications | Open-Source Contributor**
 
 🌟 Passionate about **modelling and solving of real world problems** using data and **mathematical data driven methods**. I'm specialize in 
-1. Data Science and Machine Learning - Feature extraction from high dimentional data to the building AI agentic workflow.
+1. Data Science and Machine Learning - Feature extraction from high dimentional data, AI model pre/post training, building ml systems to the building agentic AI workflow.
 2. Discrete Differential Geometry and Its Applications like Geometric Processing, Physical Simulation and Geometric Deep Learning
 3. Modelling with Dynamics and Controls using Differential Equations, Integral Equations and Variational Calculus etc.
 ## **Academics Experiance**
@@ -21,7 +21,7 @@
 >
 ## **Featured Projects**
 🚀 I have worked on the following projects
-1. Lean4Agent - A multi-agentic workflow for mathematical problems
+1. Lean4Agent - A multi-agentic workflow for mathematical problems(411 Lab, IIT Delhi)
 2. DDG - Discrete Differential Geometry Framework for Geometric Processing and Physical Simulations
 3. Data Driven Approach to Solve PDEs
 4. LLM + OpenAPI Specification(411 Lab, IIT Delhi) - Building an LLM based tool for the open api specification generation for the backend server api code(python, java)
@@ -33,8 +33,8 @@
  4. [Lean4Agent](https://github.com/ajeetkbhardwaj/Lean4Agent)
 
 ##  **Skills**
-- Feature Extraction, Modelling for Prediction
-- LLM Post Training - LLM Finetuning and Inferencing
+- Feature Extraction, ML Modelling for Prediction
+- LLM Pre/Post Training - Transformers : BERT, tinyLlamma, GPT-2, CLIP(multi-model) 
 - 
 ## 🛠️💻 Technologies & Tools
 I have strongly used the following tools and frameworks during my academic, research and works journey
@@ -73,3 +73,9 @@ I have strongly used the following tools and frameworks during my academic, rese
 [^5]: https://github.com/ajeetkbhardwaj/Master-Programming-DataStructure-Algorithm
 [^6]: https://github.com/ajeetkbhardwaj/ProgrammingInCandCPP
 [^10]: https://github.com/ajeetkbhardwaj/iitd24-data-systems
+[^11]: https://github.com/ajeetkbhardwaj/full-stack-project-portfolio
+[^12]: https://github.com/ajeetkbhardwaj/urban-chemical-saftey-project
+[^13]: https://github.com/ajeetkbhardwaj/NPTEL-302-RL 
+[^14]: https://github.com/ajeetkbhardwaj/Deep-Reinforcement-Learning
+[^15]: https://github.com/ajeetkbhardwaj/ddg-lab-for-master-thesis
+[^17]: https://github.com/ajeetkbhardwaj/ude-model-for-lotka-voltera-equation
