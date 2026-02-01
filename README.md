@@ -1,6 +1,9 @@
-<h1 align = 'center'> Hi 👋, I'm Ajeet Kumar</h1>
+<h1 align = 'center'> Hi, I'm Ajeet Kumar 👋</h1>
 
-🎓 **Applied Mathematician | Data Scientist | Machine Learning Enthusiast | LLM Applications | Open-Source Contributor**
+🎓 **Applied Mathematician | ML/AI Engineer | AgenticAI | Open-Source Contributor**
+
+I am an ML/AI Engineer & Applied Mathematician focused on building data-driven decision making systems(texts*, vision, signals).
+
 
 🌟 Passionate about **modelling and solving of real world problems** using data and **mathematical data driven methods**. I'm specialize in 
 1. Data Science and Machine Learning - Feature extraction from high dimentional data, AI model pre/post training, building ml systems to the building agentic AI workflow.
